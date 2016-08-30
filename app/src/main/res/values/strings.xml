@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ocean Coffee</string>
+    <string name="name">Nome: </string>
+    <string name="quantity">"Quantidade: "</string>
+    <string name="price">"Preço: "</string>
+    <string name="thank_you">Obrigado!</string>
+    <string name="whipped_cream">Creme</string>
+    <string name="toppings">Complementos</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="hasWhippedCream">"Add creme? "</string>
+    <string name="hasChocolate">"Add chocolate? "</string>
+    <string name="name_hint">Nome</string>
+    <string name="order">Enviar</string>
+</resources>
